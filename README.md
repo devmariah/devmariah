@@ -2,7 +2,7 @@
 ### Olá! Eu sou a Mariah Inada! 🤚
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zxmariah/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://127.0.0.1:5500/projeto%20lâmpada/index.html)
 
 ![Mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmariah&show_icons=true&theme=radical)
 
