@@ -6,14 +6,6 @@
 
 ![Mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmariah&show_icons=true&theme=radical)
 
-### Tecnologia(s) que estou aprendendo no momento:🌱
-
-<div style="display: inline_block">
- <img align="center" alt="html15" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
- div style="display: inline_block"><br/>
- </div>
-<br>
-
 ### Tecnologias que eu já aprendi: 🤖
 <div style="display: inline_block">
  <img align="center" alt="html15" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
